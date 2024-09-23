@@ -1,4 +1,4 @@
 # my_ABAP_Workshop
 a repository to hold my tryouts and code play exercises to learn SAP ABAP Programming language
 
-![SAP Logo](SAP_logo.svg)
+![SAP Logo](sap.png)
